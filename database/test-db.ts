@@ -1,4 +1,4 @@
-import {connectToDatabase} from './mongoose.ts'
+import { connectToDatabase } from './mongoose'
 
 (async () => {
     try {
